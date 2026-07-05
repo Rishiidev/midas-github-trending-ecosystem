@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./assets/social-preview.svg" alt="Project Midas Social Preview" width="100%">
+  <br><br>
   <h1 align="center">Project Midas 📈</h1>
   <p align="center">
     <strong>The God Mode Open Source Growth Ecosystem</strong>
